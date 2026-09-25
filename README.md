@@ -61,7 +61,7 @@ EduTrade-Campus-Inventory-Rental-Engine/
 Clone the repository and compile all files:
 
 ```bash
-git clone https://github.com/<your-username>/EduTrade-Campus-Inventory-Rental-Engine.git
+git clone https://github.com/<Sadaf1212-code>/EduTrade-Campus-Inventory-Rental-Engine.git
 cd EduTrade-Campus-Inventory-Rental-Engine
 javac *.java
 java EduTradeGUI
